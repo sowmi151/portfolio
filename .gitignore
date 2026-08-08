@@ -1,0 +1,13 @@
+# Local Environment & Editor Settings
+.vscode/
+.idea/
+*.DS_Store
+
+# Node Dependencies (If integrating bundlers in future)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build Outputs
+dist/
+build/
